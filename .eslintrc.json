@@ -1,0 +1,6 @@
+{
+    "extends": ["react-app"],
+    "rules": {
+      // Add any additional ESLint rules you want to enforce
+    }
+  }
